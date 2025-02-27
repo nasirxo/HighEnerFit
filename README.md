@@ -4,18 +4,18 @@
 
 # HighEnerFit: A Tool for Particle Physics Data Analysis
 
-HighEnerFit is a powerful graphical user interface (GUI) application designed to assist researchers in fitting particle physics data, with a particular focus on analyzing transverse momentum spectra. Whether you're studying particle production in high-energy collisions or exploring theoretical models, HighEnerFit offers an intuitive and feature-rich environment to load data, apply fitting models, tune parameters, visualize results, and manage your analysis—all through a user-friendly interface.
+HighEnerFit is a powerful graphical user interface (GUI) application designed to assist researchers in fitting particle physics data, with a particular focus on analyzing transverse momentum spectra.
 
 ## Download HighEnerFit
-Download HighEnerFit for [Windows or Linux from Google Drive](https://drive.google.com/drive/folders/15pH4_UWzKVyXPAcZSPXHOpTStZipeDNX?usp=sharing).
 
+Download HighEnerFit for [Windows or Linux from Google Drive](https://drive.google.com/drive/folders/15pH4_UWzKVyXPAcZSPXHOpTStZipeDNX?usp=sharing).
 
 ## What HighEnerFit Does
 
 HighEnerFit simplifies the process of fitting experimental data to theoretical models commonly used in particle physics. Here's a breakdown of its core capabilities:
 
 ### Load and Analyze Data
-- **Data Import**: Easily bring in your particle physics measurements from files like CSV or DAT formats. For example, you can load datasets containing transverse momentum (pT) values and yields, along with optional error measurements.
+- **Data Import**: Easily bring in your particle physics measurements from files like CSV or DAT formats. For example, you can load datasets containing transverse momentum (pT) values and yields, ...
 - **Flexible Formats**: Works with standard column-based data (e.g., pT, yield, statistical errors) and adapts to custom headers or metadata-rich files.
 
 ### Fit Data with Theoretical Models
@@ -35,9 +35,17 @@ HighEnerFit comes equipped with a variety of built-in fitting equations tailored
 - Generate high-quality plots showing your data and fitted curves.
 - Customize plot styles with options like logarithmic scales, error bars, and color schemes to highlight key features of your analysis.
 
+<p align="center">
+  <img src="https://github.com/nasirxo/HighEnerFit/blob/main/mainmenu.png" alt="Main Menu" width="600"/>
+</p>
+
 ### Manage Multiple Fits
 - Compare different fits and datasets side-by-side in a tabular view.
 - Keep track of parameters, results, and visualizations for multiple runs within a single session.
+
+<p align="center">
+  <img src="https://github.com/nasirxo/HighEnerFit/blob/main/plot_picture.png" alt="Plot Picture" width="600"/>
+</p>
 
 ### Save and Share Your Work
 - Export fit results, parameter tables, and plots in formats like CSV or LaTeX, making it easy to integrate into reports or publications.
@@ -65,4 +73,4 @@ HighEnerFit is built for researchers who need a reliable, interactive tool to ex
 - Quickly iterating on fits with real-time feedback.
 - Producing publication-ready visualizations and results.
 
-Whether you're a physicist studying particle production or a student learning about data fitting, HighEnerFit provides the functionality you need in an accessible package. With its focus on usability and flexibility, it’s a valuable addition to any particle physics toolkit.
+Whether you're a physicist studying particle production or a student learning about data fitting, HighEnerFit provides the functionality you need in an accessible package. With its focus on usability, HighEnerFit streamlines the analytical process, allowing you to focus on your research.
