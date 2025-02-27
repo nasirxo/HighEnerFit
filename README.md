@@ -1,4 +1,6 @@
-![HighEnerFit Logo](https://github.com/nasirxo/HighEnerFit/blob/main/HighEnerFit_Logo.png)
+<p align="center">
+  <img src="https://github.com/nasirxo/HighEnerFit/blob/main/HighEnerFit_Logo.png" alt="HighEnerFit Logo" width="200"/>
+</p>
 # HighEnerFit: A Tool for Particle Physics Data Analysis
 
 HighEnerFit is a powerful graphical user interface (GUI) application designed to assist researchers in fitting particle physics data, with a particular focus on analyzing transverse momentum spectra. Whether you're studying particle production in high-energy collisions or exploring theoretical models, HighEnerFit offers an intuitive and feature-rich environment to load data, apply fitting models, tune parameters, visualize results, and manage your analysis—all through a user-friendly interface.
