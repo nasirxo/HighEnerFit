@@ -6,6 +6,10 @@
 
 HighEnerFit is a powerful graphical user interface (GUI) application designed to assist researchers in fitting particle physics data, with a particular focus on analyzing transverse momentum spectra. Whether you're studying particle production in high-energy collisions or exploring theoretical models, HighEnerFit offers an intuitive and feature-rich environment to load data, apply fitting models, tune parameters, visualize results, and manage your analysis—all through a user-friendly interface.
 
+## Download HighEnerFit
+Download HighEnerFit for [Windows or Linux from Google Drive](https://drive.google.com/drive/folders/15pH4_UWzKVyXPAcZSPXHOpTStZipeDNX?usp=sharing).
+
+
 ## What HighEnerFit Does
 
 HighEnerFit simplifies the process of fitting experimental data to theoretical models commonly used in particle physics. Here's a breakdown of its core capabilities:
