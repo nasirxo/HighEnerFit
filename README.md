@@ -46,6 +46,9 @@ HighEnerFit comes equipped with a variety of built-in fitting equations tailored
 <p align="center">
   <img src="https://github.com/nasirxo/HighEnerFit/blob/main/plot_picture.png" alt="Plot Picture" width="600"/>
 </p>
+<p align="center">
+  <img src="https://github.com/nasirxo/HighEnerFit/blob/main/multiple_fit_plot.png" alt="Plot Picture" width="600"/>
+</p>
 
 ### Save and Share Your Work
 - Export fit results, parameter tables, and plots in formats like CSV or LaTeX, making it easy to integrate into reports or publications.
